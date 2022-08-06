@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Studio/Konten/SistemPakarKebunSawit/app/src/main/res/drawable/bg_rounded_all.xml" value="0.1355" />
+        <entry key="..\:/Android Studio/Konten/SistemPakarKebunSawit/app/src/main/res/drawable/border.xml" value="0.1355" />
+        <entry key="..\:/Android Studio/Konten/SistemPakarKebunSawit/app/src/main/res/drawable/ic_arrow_back.xml" value="0.1355" />
+        <entry key="..\:/Android Studio/Konten/SistemPakarKebunSawit/app/src/main/res/drawable/ic_arrow_right.xml" value="0.1355" />
+        <entry key="..\:/Android Studio/Konten/SistemPakarKebunSawit/app/src/main/res/layout/activity_bantuankonsultasi.xml" value="0.209375" />
+        <entry key="..\:/Android Studio/Konten/SistemPakarKebunSawit/app/src/main/res/layout/activity_daftar_penyakit.xml" value="0.209375" />
+        <entry key="..\:/Android Studio/Konten/SistemPakarKebunSawit/app/src/main/res/layout/activity_detail_penyakit.xml" value="0.209375" />
+        <entry key="..\:/Android Studio/Konten/SistemPakarKebunSawit/app/src/main/res/layout/activity_hasil_diagnosa.xml" value="0.209375" />
+        <entry key="..\:/Android Studio/Konten/SistemPakarKebunSawit/app/src/main/res/layout/activity_konsultasi.xml" value="0.209375" />
+        <entry key="..\:/Android Studio/Konten/SistemPakarKebunSawit/app/src/main/res/layout/activity_login.xml" value="0.20615384615384616" />
+        <entry key="..\:/Android Studio/Konten/SistemPakarKebunSawit/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Android Studio/Konten/SistemPakarKebunSawit/app/src/main/res/layout/activity_pengobatan.xml" value="0.209375" />
+        <entry key="..\:/Android Studio/Konten/SistemPakarKebunSawit/app/src/main/res/layout/activity_penyakit.xml" value="0.209375" />
+        <entry key="..\:/Android Studio/Konten/SistemPakarKebunSawit/app/src/main/res/layout/activity_pestisida.xml" value="0.209375" />
+        <entry key="..\:/Android Studio/Konten/SistemPakarKebunSawit/app/src/main/res/layout/activity_tentang.xml" value="0.209375" />
+        <entry key="..\:/Android Studio/Konten/SistemPakarKebunSawit/app/src/main/res/layout/item_main_grid.xml" value="0.20615384615384616" />
+        <entry key="..\:/Android Studio/Konten/SistemPakarKebunSawit/app/src/main/res/layout/list_gejala.xml" value="0.209375" />
+        <entry key="..\:/Android Studio/Konten/SistemPakarKebunSawit/app/src/main/res/layout/list_item_gejala.xml" value="0.20615384615384616" />
+        <entry key="..\:/Android Studio/Konten/SistemPakarKebunSawit/app/src/main/res/layout/list_item_penyakit.xml" value="0.209375" />
+        <entry key="..\:/Android Studio/Konten/SistemPakarKebunSawit/app/src/main/res/layout/list_penyakit.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
