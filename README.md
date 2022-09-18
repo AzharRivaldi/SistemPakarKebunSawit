@@ -1,4 +1,4 @@
-# SistemPakarKebunSawit
+# Sistem Pakar Kebun Sawit
 Membuat Aplikasi Sistem Pakar Kebun Sawit dengan Metode Forward Chaining
 
 # Tutorial Build with Android Studio
